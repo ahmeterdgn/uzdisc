@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UzDisc logosu — Uzmoon marka diliyle: siyah kare, hilal + disk -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 244" width="244" height="244">
+  <path fill="#010101" d="M201.3,244H42.7C19.1,244,0,224.9,0,201.3V42.7C0,19.1,19.1,0,42.7,0h158.6C224.9,0,244,19.1,244,42.7v158.6C244,224.9,224.9,244,201.3,244z"/>
+  <!-- Uzmoon hilali -->
+  <path fill="#FFFFFF" d="M103,81.2c-8.9,10.9-14.1,25-14.1,40.8c0,15.8,5.2,29.9,14.1,40.8c-4.5,1.5-9.4,2.3-14.5,2.3c-24.8,0-43-18.2-43-43c0-24.8,18.2-43,43-43C93.7,79,98.5,79.7,103,81.2"/>
+  <!-- Disk: dolu plak, iz halkası ve merkez deliği -->
+  <path fill="#FFFFFF" fill-rule="evenodd" d="
+    M155.5,79 a43,43 0 1,0 0.001,0 z
+    M155.5,94 a28,28 0 1,1 -0.001,0 z
+    M155.5,99 a23,23 0 1,0 0.001,0 z
+    M155.5,113.5 a8.5,8.5 0 1,1 -0.001,0 z"/>
+</svg>
